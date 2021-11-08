@@ -1,0 +1,72 @@
+.jumpcrowd{
+    position: absolute;
+    height: 8%;
+    width: 15%;
+    top: 78%;
+    display: flex;
+    
+}
+
+
+.heart{
+margin: 15%;   
+}
+
+.minigamecrowd{
+    position: absolute;
+    left: 1300px;
+    height: 100%;
+    top: 90%;
+    display: flex;  
+    
+}
+
+
+.userAvatar{ 
+    margin-left: 45%;
+}
+
+.avatar2{ 
+    margin-left: 2%;
+}
+
+.avatar3{
+    margin-left: 2%;
+}
+
+.avatar4{ 
+    margin-left: 2%;
+}
+
+.avatar5{
+    margin-left: 2%;
+}
+
+.avatar6{ 
+    margin-left: 2%;
+}
+
+.avatar7{ 
+    margin-left: 30%;
+}
+
+.avatar8{ 
+    margin-left: 2%;
+}
+
+.avatar9{ 
+    margin-left: 3%;
+}
+
+.avatar10{ 
+    margin-left: 5%;
+}
+.avatar11{ 
+    margin-left: 8%;
+}
+.avatar12{ 
+    margin-left: 5%;
+}
+.avatar13{ 
+    margin-left: 3%;
+}
